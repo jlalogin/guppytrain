@@ -1,2 +1,2 @@
 # guppytrain
-guppies and trains.  not really, but good enough for now.
+Guppies and Trains.  Not really, but good enough for now!
